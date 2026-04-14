@@ -1,5 +1,9 @@
 /**
- * 第1章 マカロン屋さんのお仕事
+public static void main(String[] args) {
+		System.out.println("たいへんお待たせしました");
+		System.out.println("【ポエール・ネルメ】");
+		System.out.println("ただいまより開店です!!");
+	} * 第1章 マカロン屋さんのお仕事
  *
  * 問題1 開店メッセージの表示
  *
@@ -15,5 +19,10 @@
 package jp.co.sss.java100_questions_cac.lesson01.challenge01;
 
 public class Patisserie {
-
+	public static void main(String[] args) {
+		System.out.println("たいへんお待たせしました");
+		System.out.println("【ポエール・ネルメ】");
+		System.out.println("ただいまより開店です!!");
+		//a
+	}
 }
